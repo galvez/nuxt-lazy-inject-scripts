@@ -4,7 +4,7 @@ This is a Nuxt 2 module that allows you to **specify when to inject scripts**, s
 
 The function needs to take a callback, which when executed will cause the app scripts to load.
 
-See also [Islands Mode](https://fastify-vite.dev/guide/island-mode.html) for [fastify-vite](https://fastify-vite.dev/) if not using Nuxt.js.
+Inspired by [Islands Mode](https://fastify-vite.dev/guide/island-mode.html) in [fastify-vite](https://fastify-vite.dev/).
 
 ## Install
 
