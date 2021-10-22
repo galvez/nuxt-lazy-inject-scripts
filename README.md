@@ -6,6 +6,12 @@ The function needs to take a callback, which when executed will cause the app sc
 
 See also [Islands Mode](https://fastify-vite.dev/guide/island-mode.html) for [fastify-vite](https://fastify-vite.dev/) if not using Nuxt.js.
 
+## Install
+
+```bash
+npm i nuxt-lazy-inject-scripts
+```
+
 ## Usage
 
 In **nuxt.config.js**:
