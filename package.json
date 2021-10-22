@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "lint": "eslint . --ext js --fix"
+  },
+  "description": "",
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/galvez/nuxt-lazy-inject-scripts",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "nuxt-lazy-inject-scripts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galvez/nuxt-lazy-inject-scripts.git"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "magic-string": "^0.25.7",
+    "node-html-parser": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1"
+  }
+}
