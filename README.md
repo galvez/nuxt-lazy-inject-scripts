@@ -31,7 +31,11 @@ The function passed to `injectScriptsWhen` needs to be a named one — an arrow 
 
 ## Sponsor
 
-![feature.fm](https://user-images.githubusercontent.com/12291/138519865-b85847ab-fe8f-4956-90ca-96058129f20e.png)
+<a href="https://feature.fm">
+<img 
+alt="feature.fm" 
+src="https://user-images.githubusercontent.com/12291/138519865-b85847ab-fe8f-4956-90ca-96058129f20e.png">
+</a>
 
 ## License 
 
